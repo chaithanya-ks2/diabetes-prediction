@@ -6,7 +6,7 @@ This repository contains a machine learning project for predicting diabetes in P
 
 Dataset:
 
-The dataset used for this project is the Pima Indians Diabetes Database, available in the 'data' folder as 'diabetes_data.csv'.
+The dataset used for this project is the Pima Indians Diabetes Database, available in the 'data' folder as 'diabetes.csv'.
 
 Results:
 
